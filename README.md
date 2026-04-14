@@ -58,7 +58,7 @@ This project is ideal for content creators, marketers, and designers who need po
 git clone <YOUR_REPO_URL>
 
 # Navigate to the project folder
-cd text-to-img-main/Letterpeg
+cd Letterpeg
 
 # Install dependencies
 npm install
