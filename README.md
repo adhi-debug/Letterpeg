@@ -6,7 +6,7 @@ Professional quote image generator for social media, designed to produce high-qu
 
 ## Live Demo
 
-[https://text-to-img-theta.vercel.app/](https://letterpeg.vercel.app/)
+(https://letterpeg.vercel.app/)
 
 ---
 
